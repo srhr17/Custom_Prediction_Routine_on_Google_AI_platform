@@ -1,0 +1,2 @@
+# Custom_Prediction_Routine_on_Google_AI_platform
+This ipynb was used in the project based course on coursera Custom_Prediction_Routine_on_Google_AI_platform.
